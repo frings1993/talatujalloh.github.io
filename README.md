@@ -11,8 +11,7 @@ header_pages:
   - cv.md
   - contact.md
 ---
-layout: page
-title: Home
+ Home
 ---
 
 ## Talatu Jalloh
@@ -31,8 +30,7 @@ My doctoral research examines how **purpose-oriented work-based learning** influ
 - Development economics  
 - Japan–Africa cooperation and international education  
 ---
-layout: page
-title: Research
+ Research
 ---
 
 ## Doctoral Thesis
