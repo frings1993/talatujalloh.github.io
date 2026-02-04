@@ -30,10 +30,6 @@ My doctoral research examines how **purpose-oriented work-based learning** influ
 - Program evaluation and causal inference  
 - Development economics  
 - Japan–Africa cooperation and international education  
-
-📧 Email: talatujalloh00@gmail.com  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en)  
-🔗 [ORCID](https://orcid.org/0000-0003-4472-4601)
 ---
 layout: page
 title: Research
