@@ -30,14 +30,11 @@ My doctoral research examines how **purpose-oriented work-based learning** influ
 - Development economics  
 - Japan–Africa cooperation and international education  
 ---
- Research
----
-
 ## Doctoral Thesis
 
 **Evaluating the African Business Education Initiative (ABEI): A Japanese Aid Initiative for Developing the Industrial Human Resources of Africa**
 
-My thesis evaluates the impact of internship-based interventions on entrepreneurial aspirations and business start-up likelihood among ABEI graduate scholars.
+My thesis evaluates the impact of internship-based interventions on entrepreneurial aspirations and the likelihood of starting a business among ABEI graduate scholars.
 
 ---
 
@@ -49,9 +46,6 @@ My thesis evaluates the impact of internship-based interventions on entrepreneur
 - **Does Work-Based Learning Increase the Likelihood of Starting a Business? Evidence from African Business Education Initiative Scholars**  
   *(Seminar Paper, Rokko Forum Mock Report Series; PhD Thesis Chapter)*
 ---
-Publications
----
-
 ## Peer-Reviewed Publications
 
 - Jalloh, T. & Jackson, E. A. (2023).  
@@ -67,24 +61,18 @@ Publications
   **International Journal of Economics and Financial Issues**, 11(2), 108–116.
 
 ---
-
 ## Policy & Research Outputs
 
 - Sam, S., Kouadri Mostéfaoui, S., Piccolo, L., Macauley, S., & Jalloh, T. (2022).  
   *Designing a multisectoral user-centered technology system for tackling violence against women.*  
   **Policy Brief**, Zenodo. https://doi.org/10.5281/zenodo.6957232
 ---
-Teaching
----
-
 ## Teaching Experience
 
 **Teaching Assistant — Kobe University, Japan (2024–Present)**
 - Comparative Economic History
 - Intermediate Microeconomics & Econometric Analysis
 - Advanced Household Economics
----
-CV
 ---
 ## Curriculum Vitae
 
