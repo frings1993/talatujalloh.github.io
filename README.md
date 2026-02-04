@@ -49,8 +49,7 @@ My thesis evaluates the impact of internship-based interventions on entrepreneur
 - **Does Work-Based Learning Increase the Likelihood of Starting a Business? Evidence from African Business Education Initiative Scholars**  
   *(Seminar Paper, Rokko Forum Mock Report Series; PhD Thesis Chapter)*
 ---
-layout: page
-title: Publications
+Publications
 ---
 
 ## Peer-Reviewed Publications
@@ -75,8 +74,7 @@ title: Publications
   *Designing a multisectoral user-centered technology system for tackling violence against women.*  
   **Policy Brief**, Zenodo. https://doi.org/10.5281/zenodo.6957232
 ---
-layout: page
-title: Teaching
+Teaching
 ---
 
 ## Teaching Experience
@@ -86,8 +84,7 @@ title: Teaching
 - Intermediate Microeconomics & Econometric Analysis
 - Advanced Household Economics
 ---
-layout: page
-title: CV
+CV
 ---
 ## Curriculum Vitae
 
@@ -102,8 +99,7 @@ A full CV is available upon request.
 You may also view my publications via my  
 [Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
 ---
-layout: page
-title: Contact
+ Contact
 ---
 
 ## Contact
