@@ -57,10 +57,9 @@ A central focus of my work is the **African Business Education Initiative (ABEI)
 
 ## Doctoral Thesis
 
-**Evaluating the African Business Education Initiative (ABEI):  
-A Japanese Aid Initiative for Developing the Industrial Human Resources of Africa**
+**Evaluating the African Business Education Initiative (ABEI): A Japanese Aid Initiative for Developing the Industrial Human Resources of Africa**
 
-My thesis evaluates the impact of internship-based interventions on entrepreneurial aspirations and business start-up likelihood among African graduate scholars.
+My thesis evaluates the impact of internship-based interventions on entrepreneurial aspirations and business start-up likelihood among ABEI graduate scholars.
 
 ---
 
