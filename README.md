@@ -1,11 +1,3 @@
-# talatujalloh.github.io
-index.md
-research.md
-publications.md
-teaching.md
-cv.md
-contact.md
-_config.yml
 title: Talatu Jalloh
 description: Doctoral Student in Economics | Kobe University
 theme: minima
