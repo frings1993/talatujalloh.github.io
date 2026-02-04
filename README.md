@@ -101,7 +101,7 @@ A full CV is available upon request.
 
 - PhD Economics, Kobe University (2023–2026, expected)
 - MPhil Economics, University of Ghana
-- BSc Economics, Fourah Bay College, University of Sierra Leone
+- BSc Economics (Honours), Fourah Bay College, University of Sierra Leone
 - MEXT Scholar (Japan)
 - AERC Scholar
 
