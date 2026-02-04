@@ -1,16 +1,3 @@
-title: Talatu Jalloh
-description: Doctoral Student in Economics | Kobe University
-theme: minima
-author: Talatu Jalloh
-
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - cv.md
-  - contact.md
----
  Home
 ---
 
@@ -87,12 +74,7 @@ A full CV is available upon request.
 You may also view my publications via my  
 [Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
 ---
- Contact
----
-
 ## Contact
 
 📧 **Email:** talatujalloh00@gmail.com  
-
-I welcome collaboration on research related to work-based learning, entrepreneurship, and development economics.
 
