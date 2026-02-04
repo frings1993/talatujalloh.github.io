@@ -39,14 +39,6 @@ layout: page
 title: Research
 ---
 
-## Research Overview
-
-My research lies at the intersection of education, entrepreneurship, and development economics. I use survey data and quasi-experimental methods to evaluate how **work-based and experiential learning interventions** shape entrepreneurial aspirations, skills, and post-program outcomes.
-
-A central focus of my work is the **African Business Education Initiative (ABEI)**, a Japanese aid program designed to develop Africa’s industrial human resources through graduate education and internships in Japan.
-
----
-
 ## Doctoral Thesis
 
 **Evaluating the African Business Education Initiative (ABEI): A Japanese Aid Initiative for Developing the Industrial Human Resources of Africa**
@@ -99,15 +91,10 @@ title: Teaching
 - Comparative Economic History
 - Intermediate Microeconomics & Econometric Analysis
 - Advanced Household Economics
-
-**Teaching Assistant — Fourah Bay College, University of Sierra Leone (2016–2018)**
-- Mathematics for Social Sciences
-- Principles of Economics
 ---
 layout: page
 title: CV
 ---
-
 ## Curriculum Vitae
 
 A full CV is available upon request.
