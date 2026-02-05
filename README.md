@@ -71,11 +71,14 @@ A full CV is available upon request.
 - BSc Economics (Honours), Fourah Bay College, University of Sierra Leone
 - MEXT Scholar (Japan)
 - AERC Scholar
+---
+## Reference
 
-## References
--Professor Tomoko Hashino, Kobe University
--Professor Keijiro Otsuka, Kobe University
--Professor David Wolf, Kobe University 
+Professor Keijiro Otsuka, Kobe University
+Professor Tomoko Hashino, Kobe University
+Professor David Wolf, Kobe University
+
+ 
 ---
 ## Contact
 
