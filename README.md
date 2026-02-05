@@ -72,10 +72,10 @@ A full CV is available upon request.
 - MEXT Scholar (Japan)
 - AERC Scholar
 
-References
-Professor Tomoko Hashino, Kobe University
-Professor Keijiro Otsuka, Kobe University
-Professor David Wolf, Kobe University 
+## References
+*Professor Tomoko Hashino, Kobe University
+*Professor Keijiro Otsuka, Kobe University
+*Professor David Wolf, Kobe University 
 ---
 ## Contact
 
