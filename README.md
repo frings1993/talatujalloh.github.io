@@ -47,8 +47,7 @@ My thesis evaluates the impact of internship-based interventions on entrepreneur
   *Determinants of capital flight in post-war Sierra Leone: An empirical analysis.*  
   **International Journal of Economics and Financial Issues**, 11(2), 108–116.
   
-* You may view the rest of my publications via my  
-[Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
+* You may view the rest of my publications via my [Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
 ---
 ## Policy & Research Outputs
 
