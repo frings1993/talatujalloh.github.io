@@ -74,11 +74,9 @@ A full CV is available upon request.
 ---
 ## Reference
 
-Professor Keijiro Otsuka, Kobe University
-Professor Tomoko Hashino, Kobe University
-Professor David Wolf, Kobe University
-
- 
+Professor Keijiro Otsuka (Kobe University),
+Professor Tomoko Hashino (Kobe University), and
+Professor David Wolf (Kobe University)
 ---
 ## Contact
 
