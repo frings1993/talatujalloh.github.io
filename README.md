@@ -46,7 +46,9 @@ My thesis evaluates the impact of internship-based interventions on entrepreneur
 - Tarawalie, A. B. & Jalloh, T. (2021).  
   *Determinants of capital flight in post-war Sierra Leone: An empirical analysis.*  
   **International Journal of Economics and Financial Issues**, 11(2), 108–116.
-
+  
+* You may view the rest of my publications via my  
+[Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
 ---
 ## Policy & Research Outputs
 
@@ -71,8 +73,10 @@ A full CV is available upon request.
 - MEXT Scholar (Japan)
 - AERC Scholar
 
-You may also view my publications via my  
-[Google Scholar profile](https://scholar.google.com/citations?user=LjtsFm8AAAAJ&hl=en).
+References
+Professor Tomoko Hashino, Kobe University
+Professor Keijiro Otsuka, Kobe University
+Professor David Wolf, Kobe University 
 ---
 ## Contact
 
