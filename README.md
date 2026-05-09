@@ -1,29 +1,10 @@
  Home
----
-
 ## Talatu Jalloh
 
 **Doctoral Student in Economics**  
 *Kobe University, Japan*
 
-I am a doctoral student in Economics at Kobe University with research interests in work-based and experiential learning, entrepreneurship, and development economics. My work focuses on evaluating education and internship-based interventions—particularly the **African Business Education Initiative (ABEI)**—using survey data and quasi-experimental methods.
-
-My doctoral research examines how **purpose-oriented work-based learning** influences entrepreneurial aspirations and the likelihood of starting a business among African graduate scholars. I am especially interested in alternative, non-discipline-specific pathways for developing entrepreneurial capabilities in developing-country contexts.
-
-**Research interests**
-- Work-based and experiential learning  
-- Entrepreneurship and entrepreneurial aspirations  
-- Program evaluation and causal inference  
-- Development economics  
-- Japan–Africa cooperation and international education  
----
-## Doctoral Thesis
-
-**Evaluating the African Business Education Initiative (ABEI): A Japanese Aid Initiative for Developing the Industrial Human Resources of Africa**
-
-My thesis evaluates the impact of internship-based interventions on entrepreneurial aspirations and the likelihood of starting a business among ABEI graduate scholars.
-
----
+Talatu is a development economist and quantitative researcher with a strong track record spanning academic research, government statistics, and applied policy advisory. He is currently pursuing his PhD at Kobe University, Japan, under a Japanese Government (MEXT) Scholarship. His doctoral research examines how purpose-driven work-based learning shapes entrepreneurial aspirations and business formation among African graduate scholars. His research contributes original, policy-relevant evidence to debates on human capital development, skills formation, and enterprise creation in developing-country contexts. He has published extensively in peer-reviewed journals on topics including macroeconomic governance, trade and environmental quality, digitalisation and domestic resource mobilisation, capital flight, and financial sector performance. Beyond academia, Talatu has held substantive professional roles in Sierra Leone's public and non-public sectors.
 
 ## Working & Seminar Papers
 
